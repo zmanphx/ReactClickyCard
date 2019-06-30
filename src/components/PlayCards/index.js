@@ -3,21 +3,17 @@ import "./style.css";
 function PlayCard(props) {
   return (
     
-    
 
 
 
 <div> 
   
     <div className="card">
-      <div className="img-container">
+      <div className="img-container  .mx-auto" onClick={() => props.RecordClick(props.name)}>
         <img alt={props.name} src={props.image}/>
       </div>
       
-      <span onClick={() => props.RecordClick(props.id)} className="record">
-        𝘅
-      </span>
-    </div>
+        </div>
     </div>
   );
 }
