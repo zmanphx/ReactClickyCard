@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "2c",
+    "image": "/assets/images/AC.png"
+   
+  },
+ 
+  {
+    "id": 2,
+    "name": "3h",
+    "image": "/assets/images/3H.png"
+  },
+  {
+    "id": 3,
+    "name": "4S",
+    "image": "/assets/images/4S.png"
+  },
+  {
+    "id": 4,
+    "name": "5H",
+    "image": "/assets/images/5H.png"
+  },
+  {
+    "id": 5,
+    "name": "6S",
+    "image": "/assets/images/6S.png"
+  },
+  {
+    "id": 6,
+    "name": "7D",
+    "image": "/assets/images/7D.png"
+  },
+  {
+    "id": 7,
+    "name": "8H",
+    "image": "/assets/images/8H.png"
+  },
+  {
+    "id": 8,
+    "name": "8S",
+    "image": "/assets/images/8S.png"
+  },
+  {
+    "id": 9,
+    "name": "9D",
+    "image": "/assets/images/9D.png"
+  },
+  {
+    "id": 10,
+    "name": "10s",
+    "image": "/assets/images/10S.png"
+  },
+  
+
+  {
+    "id": 11,
+    "name": "AC",
+    "image": "/assets/images/AC.png"
+  },
+  {
+    "id": 12,
+    "name": "AD",
+    "image": "/assets/images/AD.png"
+  },
+  {
+    "id": 13,
+    "name": "JH",
+    "image": "/assets/images/JH.png"
+  },
+  {
+    "id": 14,
+    "name": "JS",
+    "image": "/assets/images/JS.png"
+  },
+  {
+    "id": 15,
+    "name": "KC",
+    "image": "/assets/images/KC.png"
+  },
+  {
+    "id": 16,
+    "name": "KH",
+    "image": "/assets/images/KH.png"
+  }
+]

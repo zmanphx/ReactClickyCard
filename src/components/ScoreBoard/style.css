@@ -1,0 +1,8 @@
+.Score {
+  width: 100%;
+  text-align: center;
+  font-size: 3rem;
+  text-decoration: underline;
+  color: rgb(20, 5, 0);
+  margin-bottom: 50px;
+}
