@@ -2,85 +2,85 @@
   {
     "id": 1,
     "name": "7C",
-    "image": "/assets/images/7C.PNG"
+    "image": "/assets/images/7CZ.PNG"
    
   },
  
   {
     "id": 2,
     "name": "3h",
-    "image": "/assets/images/3H.png"
+    "image": "/assets/images/3HZ.PNG"
   },
   {
     "id": 3,
     "name": "4S",
-    "image": "/assets/images/4S.png"
+    "image": "/assets/images/4SZ.PNG"
   },
   {
     "id": 4,
     "name": "5H",
-    "image": "/assets/images/5H.png"
+    "image": "/assets/images/5HZ.PNG"
   },
   {
     "id": 5,
     "name": "6S",
-    "image": "/assets/images/6S.png"
+    "image": "/assets/images/6SZ.PNG"
   },
   {
     "id": 6,
     "name": "7D",
-    "image": "/assets/images/7D.png"
+    "image": "/assets/images/7DZ.PNG"
   },
   {
     "id": 7,
     "name": "8H",
-    "image": "/assets/images/8H.png"
+    "image": "/assets/images/8HZ.PNG"
   },
   {
     "id": 8,
     "name": "8S",
-    "image": "/assets/images/8S.png"
+    "image": "/assets/images/8SZ.PNG"
   },
   {
     "id": 9,
     "name": "9D",
-    "image": "/assets/images/9D.png"
+    "image": "/assets/images/9DZ.PNG"
   },
   {
     "id": 10,
     "name": "10s",
-    "image": "/assets/images/10S.png"
+    "image": "/assets/images/10SZ.PNG"
   },
   
 
   {
     "id": 11,
     "name": "AC",
-    "image": "/assets/images/AC.png"
+    "image": "/assets/images/ACZ.PNG"
   },
   {
     "id": 12,
     "name": "AD",
-    "image": "/assets/images/AD.png"
+    "image": "/assets/images/ADZ.PNG"
   },
   {
     "id": 13,
     "name": "JH",
-    "image": "/assets/images/JH.png"
+    "image": "/assets/images/JHZ.PNG"
   },
   {
     "id": 14,
     "name": "JS",
-    "image": "/assets/images/JS.png"
+    "image": "/assets/images/JSZ.PNG"
   },
   {
     "id": 15,
     "name": "KC",
-    "image": "/assets/images/KC.png"
+    "image": "/assets/images/KCZ.PNG"
   },
   {
     "id": 16,
     "name": "KH",
-    "image": "/assets/images/KH.png"
+    "image": "/assets/images/KHZ.PNG"
   }
 ]
