@@ -64,9 +64,13 @@ class App extends Component {
     return (
       <Wrapper>
         <Title>Clicky Game <h4>React Demo</h4></Title>
-        <ScoreBoard>
-          {this.state.count} {this.state.TopCount}{this.state.Message}
-        </ScoreBoard>
+        <ScoreBoard      
+            count={this.state.count} 
+          TopCount={this.state.TopCount}
+           Message={this.state.Message}
+          
+        
+        />
         {this.state.cards.map(card => (
           <PlayCard
             RecordClick={this.RecordClick}
